@@ -1,0 +1,22 @@
+## 环境设置
+
+### 开发测试环境
+
+* 系统版本 Ubuntu16.04_Server
+* CPU: E5-2680 X 2 计 20C40T
+* RAM: ECC 8G X 8 计 64GB
+* SSD: Intel 256G + 三星256G
+* 显卡: NVIDIA 1070 8G
+
+* 预装深度学习框架如下：
+cuda9, cudnn7, tensorflow1.8.0, tensorboard, jupyter, theano, chainer, Cython, graphviz, pydot, opencv-python, xgboost, cntk-gpu, mxnet-cu90, torch, torchvision, lightgbm, keras, tqdm, scipy, matplotlib, sklearn
+
+### 系统运行环境
+
+1. web远程调用  
+    * Chrome浏览器，支持JS
+    * 推荐客户端分辨率1920x1080
+
+2. 本地API调用  
+    * 支持Win,Mac,Linux三大平台
+    * 显卡GTX1050Ti，显存4G以上或更高
