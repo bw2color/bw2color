@@ -62,8 +62,7 @@ class LabImagenetBatcher:
         :return: a tuple containing all these operations
         """
         # Create the queue operations
-        image_key, image_tensor, _ = \
-            queue_single_images_from_folder(self.inputs_dir)
+        image_key, image_tensor, _ = queue_single_images_from_folder(self.inputs_dir)
 
         # Build Inception Resnet v2 operations using the image as input
         # - from rgb to grayscale to loose the color information
@@ -74,8 +73,7 @@ class LabImagenetBatcher:
         img_for_inception = tf.image.grayscale_to_rgb(img_for_inception)
         img_for_inception = prepare_image_for_inception(img_for_inception)
         with slim.arg_scope(inception_resnet_v2_arg_scope()):
-            input_embedding, _ = inception_resnet_v2(img_for_inception,
-                                                     is_training=False)
+            input_embedding, _ = inception_resnet_v2(img_for_inception, is_training=False)
 
         operations = image_key, image_tensor, input_embedding
 
