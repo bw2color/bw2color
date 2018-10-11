@@ -1,0 +1,41 @@
+一、申请理由（包括自身具备的知识条件、自己的特长、兴趣、已有的实践创新成果等）
+
+团队负责人及成员能力
+1. 团队获得过的荣誉:
+    * 五位成员中有三位获得 浙江省政府奖学金，一位获得院二等奖学金
+    * 2018学年团队获得获院网页设计竞赛一等奖
+    * 2017,2018两学年团队负责人在院程序设计大赛拿到一等奖
+    * 在企业中有开发rocket MQ消息队列中间件的实战经验
+    * 前期FaceScore项目已申请软件著作权
+    * 团队负责人早于2016年就获中级摄影师资格证，现学习高级内容中
+
+2. 成员学习过的知识:
+    * ACM程序设计竞赛
+    * 熟悉CentOS/Ubuntu/Arch
+    * 熟练使用markdown语法
+    * python库的使用，包括numpy,matplotlib，keras，pandas等
+    * Hadoop大数据分析教程
+    * docker/Moby容器技术
+    * Flask/Django框架开发web应用
+    * opencv计算机视觉库的应用
+    * Mysql/MariaDB数据库
+    * kalfa,rocketMQ消息中间件
+
+3. 已有项目成果包括: 
+    * 用C#独立完成数独游戏(shuduku)的开发。
+    * 基于深度学习tensorflow框架搭建的人脸特征点检测与评分计算系统(FaceScore)，此项目在机器学习准确率上达到98%，已申请软件著作权
+    * CSDN主页: https://blog.csdn.net/Terrances
+    * 团队负责人开源社区Github主页: https://github.com/lizhimins
+    * 团队往期项目开源地址: 
+        1. https://github.com/FaceScore
+        2. https://github.com/lzmcode
+
+
+
+
+
+
+
+
+
+
