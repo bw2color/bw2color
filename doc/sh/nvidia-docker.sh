@@ -1,0 +1,1 @@
+nohup nvidia-docker run -i -p 2222:22 -p 8888:8888 -p 6006:6006 --ipc=host -v /data:/root ufoym/deepo:all-jupyter-py36 jupyter notebook --no-browser --ip=0.0.0.0 --allow-root --NotebookApp.token= --notebook-dir='/root' &
