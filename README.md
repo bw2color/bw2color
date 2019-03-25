@@ -65,19 +65,8 @@
 我们将使用传统的机器学习算法(machine learning algorithm)和近几年才产生的深度学习技术(deep learning technology)来完成这一目标，具体包括:
 
 1. 传统的机器学习算法(machine learning algorithm)
-    * 线性回归 (Linear Regression)
-    * 逻辑回归 (Logistic Regression)
-    * 贝叶斯分类 (Bayes Classification)
-    * 决策树与随机森林 (Decision Tree)
-    * k最近邻法 (KNN)
-    * AdaBoost迭代
-
 
 2. 无监督深度学习技术 (deep learning technology)
-    * 分别采用 Tensorflow,Caffe 训练两个模型
-    * 使用集成学习技术
-    * k折交叉验证
-    * 运用遗传算法提高整个模型最后的准确度
 
 ## 预期目标
 ### 项目目标
@@ -198,7 +187,7 @@ Lab颜色定义示意图
 * [原图像处理之灰度模糊图像与彩色清晰图像的变换](https://blog.csdn.net/u010402786/article/details/53859569)
 * [令人惊艳的python项目](https://blog.csdn.net/qiansg123/article/details/80133636)
 * [通俗、有逻辑的写一篇说下Xgboost的原理，供讨论参考](https://blog.csdn.net/github_38414650/article/details/76061893)
-
+* [Keras TensorFlow教程：如何从零开发一个复杂深度学习模型](https://www.sohu.com/a/145534864_697750)
 
 ### 文案部分参考
 * [黑白照片只有两种颜色？大错特错](http://k.21cn.com/share/2017/1221/20/98266e517e91d5ce53f7f284.shtml)
@@ -212,6 +201,7 @@ Lab颜色定义示意图
 5. http://blog.csdn.net/totoro1745/article/details/53328725?utm_source=itdadao&utm_medium=referral 
 6. http://matafight.github.io/2017/03/14/XGBoost-%E7%AE%80%E4%BB%8B/ 
 7. https://wenku.baidu.com/view/44778c9c312b3169a551a460.html
+
 
 ### 相关项目汇总
 * https://github.com/yhfy2006/deeplearningNotes/
