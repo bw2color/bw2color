@@ -18,7 +18,7 @@ python-dateutil==2.6.1
 python-resize-image==1.1.11
 pytz==2017.2
 PyWavelets==0.5.2
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.4
 scikit-image==0.13.1
 scipy==0.19.1
